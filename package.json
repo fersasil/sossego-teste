@@ -1,0 +1,26 @@
+{
+  "name": "2015110",
+  "version": "1.0.0",
+  "main": "piadas.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon piadas.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/snippets/2015110.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/snippets/2015110/issues"
+  },
+  "homepage": "https://gitlab.com/snippets/2015110#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.0",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}
